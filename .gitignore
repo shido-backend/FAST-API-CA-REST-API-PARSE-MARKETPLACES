@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files end up in a subfolder named after the
+#  .spec file.
+#  Just ignore everything under the dist/ dir.
+dist/
+*.spec
+
+# Installer logs, compiled documents, etc.
+*.log
+*.pdf
+*.doc
+*.docx
+
+# Unit test results
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.coverage
+
+# IDE files
+.idea/
+*.swp
+.vscode/
+
+# Virtual environment
+.venv/
+venv/
+env/
+.env
